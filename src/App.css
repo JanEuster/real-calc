@@ -44,3 +44,8 @@
   color: red;
   -webkit-app-region: drag
 }
+
+.calc-img {
+  user-select: none;
+  -webkit-user-drag: none;
+}

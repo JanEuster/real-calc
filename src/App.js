@@ -11,6 +11,7 @@ function App() {
       <img
         src={calcImg}
         alt="Calculator Graphic"
+        className='calc-img'
       ></img>
     </div>
   );
